@@ -37,3 +37,7 @@ Este projeto foi desenvolvido com foco em praticar e consolidar os fundamentos d
 
 💜 Contato </br>
 🔗 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/larissa-ariane/
+
+---
+
+Esse projeto foi criado durante a aula de React na Rocketseat 🚀
